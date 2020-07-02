@@ -7,11 +7,11 @@
 
 # Site settings
 title: UAI Physics + Astro group
-email: rbrahm@gmail.com
+email: physics.astro.uai@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Physics ans Astronomy research group of the Universidad Adolfo Ibañez, Chile
 baseurl: ""
-url: "https://rabrahm.github.io/UAI-Physics-Astro/"
+url: "https://PhysicsAstroUAI.github.io/UAI-Physics-Astro/"
 
 include:
   - .htaccess
