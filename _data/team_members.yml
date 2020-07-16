@@ -1,3 +1,14 @@
+- name: Andrés Anabalón
+  department: FAL (Viña)
+  webpage: https://artesliberales.uai.cl/profesor/andres-fernando-anabalon/
+  photo: andres-anabalon.jpg
+  info: Associate Professor
+  email: ensnry.oenuz@hnv.py 
+  mailto: znvygb:nensnry.oenuz@hnv.py
+  number_educ: 1
+  education1: PhD in Physics, Universidad de Concepción
+  area1: Gravitación y física de altas energías
+
 - name: Felipe A. Asenjo
   department: FIC (Santiago)
   webpage: https://ingenieria.uai.cl/profesor/felipe-asenjo/
@@ -30,6 +41,17 @@
   number_educ: 1
   education1: PhD in Physics, Universidad de Chile
   area1: String theory, Theoretical Physics
+  
+- name: Giovanna Cottin
+  department: FAL (Santiago)
+  webpage: https://sites.google.com/view/giovannacottinburacchio/
+  photo: giovanna-cottin.jpg
+  info: Assistant Professor
+  email: ensnry.oenuz@hnv.py 
+  mailto: znvygb:nensnry.oenuz@hnv.py
+  number_educ: 1
+  education1: PhD in Physics, University of Cambridge
+  area1: Particle Physics Phenomenology
   
 - name: Andrés Concha
   department: FIC (Santiago)
