@@ -28,6 +28,16 @@
   highlight: 1
   news2:
   
+  - title: "General fluctuations of the heterotic pure spinor string on curved backgrounds"
+    image: dummy.jpg
+    description: The general fluctuations, in the form of vertex operators, for the heterotic superstring in the pure spinor formalism are considered. The case of a flat background is reviewed and the case of a curved case is studied.
+    authors: O Chandia
+    link: 
+      url: https://link.springer.com/article/10.1007/JHEP02(2019)116
+      display: JHEP 02 (2019) 116
+    highlight: 0
+    news2: 
+  
 #- title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
 #  image: TBG_ARPES.png
 #  description:
