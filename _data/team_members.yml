@@ -1,5 +1,5 @@
 - name: Felipe A. Asenjo
-  department: FIC
+  department: FIC (Santiago)
   webpage: https://ingenieria.uai.cl/profesor/felipe-asenjo/
   photo: felipe-asenjo.jpg
   info: Associate professor
@@ -8,20 +8,75 @@
   number_educ: 1
   education1: PhD in Physics, Universidad de Chile
   area1: Physics
-  
-- name: Francisco Rojas
-  department: FIC
-  webpage: https://ingenieria.uai.cl/profesor/francisco-rojas/
-  photo: francisco-rojas.jpg
-  info: Assistant professor
-  email: senapvfpb.ebwnfs@hnv.py 
-  mailto: znvygb:senapvfpb.ebwnfs@hnv.py
+    
+- name: Rafael Brahm
+  department: FIC (Santiago)
+  webpage: http://www.astro.puc.cl/~rbrahm/
+  photo: rafael-brahm.jpg
+  info: Assistant Professor
+  email: ensnry.oenuz@hnv.py 
+  mailto: znvygb:nensnry.oenuz@hnv.py
   number_educ: 1
-  education1: PhD in Physics, University of Florida
-  area1: High energy theory
-
+  education1: PhD in Astrophysics, Pontificia Universidad Católica de Chile
+  area1: Exoplanets
+  
+- name: Osvaldo Chandía
+  department: FAL (Santiago)
+  webpage: https://artesliberales.uai.cl/profesor/osvaldo-chandia/
+  photo: osvaldo-chandia.jpg
+  info: Associate Professor
+  email: ensnry.oenuz@hnv.py 
+  mailto: znvygb:nensnry.oenuz@hnv.py
+  number_educ: 1
+  education1: PhD in Physics, Universidad de Chile
+  area1: String theory, Theoretical Physics
+  
+- name: Andrés Concha
+  department: FIC (Santiago)
+  webpage: https://sites.google.com/site/andresconchaphysicsresearch/
+  photo: andres-concha.jpg
+  info: Associate professor
+  email: naqerf.pbapun@hnv.py
+  mailto: znvygb:naqerf.pbapun@hnv.py
+  number_educ: 1
+  education1: PhD in Physics, Johns Hopkins University
+  area1: Condensed matter physics
+    
+- name: Andrés Gomberoff
+  department: FIC (Santiago)
+  webpage: https://ingenieria.uai.cl/profesor/andres-gomberoff/
+  photo: andres-gomberoff.jpg
+  info: Associate professor
+  email: naqerf.tbzorebss@hnv.py
+  mailto: znvygb:naqerf.tbzorebss@hnv.py
+  number_educ: 1
+  education1: PhD in Physics, Universidad de Chile
+  area1: Gravitation
+  
+- name: Andrés Jordán
+  department: FIC (Santiago)
+  webpage: http://andres-jordan.io/
+  photo: andres-jordan.jpg
+  info: Full professor
+  email: naqerf.wbeqna@hnv.py
+  mailto: znvygb:naqerf.wbeqna@hnv.py
+  number_educ: 1
+  education1: PhD in Physics, Rutgers University
+  area1: Exoplanets, Atmospheres
+  
+- name: Paula Mellado
+  department: FIC (Santiago)
+  webpage: https://sites.google.com/site/pmelladouai/home
+  photo: paula-mellado.jpg
+  info: Associate professor
+  email: cnhyn.zryynqb@hnv.py 
+  mailto: znvygb:cnhyn.zryynqb@hnv.py
+  number_educ: 1
+  education1: PhD in Physics, Johns Hopkins University
+  area1: Strongly correlated materials
+  
 - name: Sergio Rica
-  department: FIC
+  department: FIC (Santiago)
   webpage: http://www.sergiorica.com/Site/Home.html
   photo: sergio-rica.jpg
   info: Full professor
@@ -31,60 +86,31 @@
   education1: PhD in Physics, University of Nice Sophia Antipolis
   area1: Nonlinear Physics
 
-- name: Paula Mellado
-  department: FIC
-  webpage: https://sites.google.com/site/pmelladouai/home
-  photo: paula-mellado.jpg
+- name: Francisco Rojas
+  department: FIC (Santiago)
+  webpage: https://ingenieria.uai.cl/profesor/francisco-rojas/
+  photo: francisco-rojas.jpg
+  info: Assistant professor
+  email: senapvfpb.ebwnfs@hnv.py 
+  mailto: znvygb:senapvfpb.ebwnfs@hnv.py
+  number_educ: 1
+  education1: PhD in Physics, University of Florida
+  area1: High energy theory
+
+- name: Gianni Tallarita
+  department: FAL (Santiago)
+  webpage: https://artesliberales.uai.cl/profesor/gianni-tallarita/ 
+  photo: gianni-tallarita.jpg
   info: Associate professor
-  email: cnhyn.zryynqb@hnv.py 
-  mailto: znvygb:cnhyn.zryynqb@hnv.py
+  email: senapvfpb.ebwnfs@hnv.py 
+  mailto: znvygb:senapvfpb.ebwnfs@hnv.py
   number_educ: 1
-  education1: PhD in Physics, Johns Hopkins University
-  area1: Strongly correlated materials
+  education1: PhD in Physics, Queen Mary University of London
+  area1: String Theory, Soliton Physics, AdS/CFT 
 
-- name: Andrés Gomberoff
-  department: FIC
-  webpage: https://ingenieria.uai.cl/profesor/andres-gomberoff/
-  photo: andres-gomberoff.jpg
-  info: Associate professor
-  email: naqerf.tbzorebss@hnv.py
-  mailto: znvygb:naqerf.tbzorebss@hnv.py
-  number_educ: 1
-  education1: PhD in Physics, Universidad de Chile
-  area1: Gravitation
 
-- name: Andrés Concha
-  department: FIC
-  webpage: https://sites.google.com/site/andresconchaphysicsresearch/
-  photo: andres-concha.jpg
-  info: Associate professor
-  email: naqerf.pbapun@hnv.py
-  mailto: znvygb:naqerf.pbapun@hnv.py
-  number_educ: 1
-  education1: PhD in Physics, Johns Hopkins University
-  area1: Condensed matter physics
 
-- name: Andrés Jordán
-  department: FIC
-  webpage: http://andres-jordan.io/
-  photo: andres-jordan.jpg
-  info: Full professor
-  email: naqerf.wbeqna@hnv.py
-  mailto: znvygb:naqerf.wbeqna@hnv.py
-  number_educ: 1
-  education1: PhD in Physics, Rutgers University
-  area1: Exoplanets, Atmospheres
 
-- name: Rafael Brahm
-  department: FIC
-  webpage: http://www.astro.puc.cl/~rbrahm/
-  photo: rafael-brahm.jpg
-  info: Assistant Professor
-  email: ensnry.oenuz@hnv.py 
-  mailto: znvygb:nensnry.oenuz@hnv.py
-  number_educ: 1
-  education1: PhD in Astrophysics, Pontificia Universidad Católica de Chile
-  area1: Exoplanets
 
 
 #- name: Hugo van Bohemen
