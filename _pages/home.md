@@ -35,6 +35,9 @@ We are a research group at the [Faculty of Engineering and Sciences](https://ing
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/paula-research.png" alt="Slide 3" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/research4.jpg" alt="Slide 3" />
+        </div>
         <!-- <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 4" />
         </div>
