@@ -18,7 +18,7 @@ blah
 
 ## Extrasolar Planets
 
-blah
+We have a focus on the discovery and atmospheric characterization of exoplanets, understanding populations of exoplanets and their birthplaces, protolanetary disks. We focus on discovery through various ground-based projects such as HATSouth, HATPI and follow-up of space-based missions, most notably TESS. Regarding the latter, we're world leaders in the discovery of warm giants, loosely defined as giant planets with radii larger than 0.4 Jupiter raii and periods larget than 10 days. 
 
 <!--
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
