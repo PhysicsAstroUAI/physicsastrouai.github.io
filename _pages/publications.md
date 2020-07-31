@@ -56,6 +56,10 @@ permalink: /publications/
 
 A full list of publications for Astrophysics@UAI can be found in the following <a href="https://ui.adsabs.harvard.edu/public-libraries/hA1Ady6dQ5qYjhUCEa3qxw">NASA ADS public library</a>.
 
+A list of the publications for High Energy Physics can be found in this <a href="https://inspirehep.net/institutions/910504">INSPIRE institution list</a>.
+
+Finally, a list of Condensed Matter/Material Physics/Nonelinear Physics can be found in the following <a href="https://ui.adsabs.harvard.edu/public-libraries/hCXAMso8Rzi0nXWLnLy1DQ"> NASA ADS public library</a> (this list is not complete).
+
 <!--
 {% for publi in site.data.publist %}
 
