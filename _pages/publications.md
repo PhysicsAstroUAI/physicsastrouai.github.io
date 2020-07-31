@@ -54,7 +54,7 @@ permalink: /publications/
 
 ## Full Lists of publications
 
-A full list of publications for Astrophysics can be found in an <a=href="https://ui.adsabs.harvard.edu/public-libraries/hA1Ady6dQ5qYjhUCEa3qxw">ADS public library</a>.
+A full list of publications for Astrophysics can be found in an <a href="https://ui.adsabs.harvard.edu/public-libraries/hA1Ady6dQ5qYjhUCEa3qxw">ADS public library</a>.
 
 <!--
 {% for publi in site.data.publist %}
