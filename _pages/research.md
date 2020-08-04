@@ -21,4 +21,6 @@ Faculty: <a href="https://sites.google.com/site/andresconchaphysicsresearch/">An
 ## High Energy Physics, Mathematical Physics, Plasma Physics
 Faculty: <a href="https://artesliberales.uai.cl/profesor/andres-fernando-anabalon/">Andrés Anabalón</a>, <a href="https://ingenieria.uai.cl/profesor/felipe-asenjo/">Felipe Asenjo</a>, <a href="">Osvaldo Chandía</a>, <a href="https://sites.google.com/view/giovannacottinburacchio/">Giovanna Cottin</a>, <a href="https://ingenieria.uai.cl/profesor/andres-gomberoff/">Andrés Gomberoff</a>, <a href="https://artesliberales.uai.cl/profesor/hernan-gonzalez/">Hernán González</a>, <a href="https://artesliberales.uai.cl/profesor/sergio-hojman/">Sergio Hojman</a>, <a href="https://ingenieria.uai.cl/profesor/francisco-rojas/">Francisco Rojas</a>, <a href="https://artesliberales.uai.cl/profesor/gianni-tallarita/">Gianni Tallarita</a>
 
+We carry out research in string theory, strong coupling models in holographic superconductivity, particvle physics phenomenology (including LHC@CERN), black hole physics, gravitation, plasma physics in astrophysical environments, foundations of quantum mechanics, AdS/CFT, conservation laws in gauge theories, symmetries and conservation laws, inverse problem in variational calculus and propagation of spin particles and waves in gravitational fields.
+
 
