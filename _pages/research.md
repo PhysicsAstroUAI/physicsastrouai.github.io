@@ -17,8 +17,9 @@ blah
 blah
 
 ## Extrasolar Planets
+Faculty: <a href="http://www.astro.puc.cl/~rbrahm/">Rafael Brahm</a>, <a href="https://artesliberales.uai.cl/profesor/jorge-cuadra/">Jorge Cuadra</a>, <a href="http://andres-jordan.io/">Andrés Jordán</a>, <a href="http://www.gijsmulders.com/">Gijs Mulders</a> (starting Oct 2020).
 
-We have a focus on the discovery and atmospheric characterization of exoplanets, understanding populations of exoplanets and their birthplaces, protolanetary disks. We focus on discovery through various ground-based projects such as [HATSouth](https://hatsouth.org/), [HATPI](https://hatpi.org/) and follow-up of space-based missions, most notably [TESS](https://tess.mit.edu/). Regarding the latter, we're world leaders in the discovery of warm giants, loosely defined as giant planets with radii larger than 0.4 Jupiter raii and periods larget than 10 days. 
+We have a  focus on the discovery and atmospheric characterization of exoplanets, understanding populations of exoplanets and their birthplaces, protoplanetary disks. We work on various ground-based projects such as [HATSouth](https://hatsouth.org/), [HATPI](https://hatpi.org/) and follow-up of space-based missions, most notably [TESS](https://tess.mit.edu/). Regarding the latter, we're world leaders in the discovery of warm giants, loosely defined as giant planets with radii larger than 0.4 Jupiter raii and periods larget than 10 days. 
 
 <!--
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
