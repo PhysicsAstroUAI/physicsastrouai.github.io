@@ -9,6 +9,9 @@ permalink: /multimedia/
 
 #### Physics and Astronomy Seminars (2020):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JuQSe2peAm8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aBWqEMyPXEw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rFz2QdfXIF8" frameborder="0" allowfullscreen></iframe>
+
 
 <!--
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
