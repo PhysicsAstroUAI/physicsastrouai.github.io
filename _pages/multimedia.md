@@ -12,7 +12,6 @@ permalink: /multimedia/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aBWqEMyPXEw" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rFz2QdfXIF8" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01KEQRdpdlY" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/01KEQRdpdlY" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xynk4tPKYTg" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NuhbESzsXOQ" frameborder="0" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Exl8oU_3Gs4" frameborder="0" allowfullscreen></iframe>
