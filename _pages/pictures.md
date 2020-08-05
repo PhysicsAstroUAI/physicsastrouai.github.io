@@ -2,7 +2,7 @@
 title: "UAI Physics+Astro - Pictures"
 layout: piclay
 excerpt: "Physics + Astro Group at UAI"
-permalink: /pictures/
+permalink: /multimedia/
 ---
 
 # Pictures
