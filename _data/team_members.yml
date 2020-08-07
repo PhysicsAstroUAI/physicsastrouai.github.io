@@ -52,18 +52,7 @@
   number_educ: 1
   education1: PhD in Physics, Universidad de Chile
   area1: String theory, Theoretical Physics
-  
-- name: Giovanna Cottin
-  department: FAL (Santiago)
-  webpage: https://sites.google.com/view/giovannacottinburacchio/
-  photo: giovanna-cottin.jpg
-  info: Assistant Professor
-  email: ensnry.oenuz@hnv.py 
-  mailto: znvygb:nensnry.oenuz@hnv.py
-  number_educ: 1
-  education1: PhD in Physics, University of Cambridge
-  area1: Particle Physics Phenomenology
-  
+    
 - name: Andrés Concha
   department: FIC (Santiago)
   webpage: https://sites.google.com/site/andresconchaphysicsresearch/
@@ -74,7 +63,18 @@
   number_educ: 1
   education1: PhD in Physics, Johns Hopkins University
   area1: Condensed matter physics
-    
+
+- name: Giovanna Cottin
+  department: FAL (Santiago)
+  webpage: https://sites.google.com/view/giovannacottinburacchio/
+  photo: giovanna-cottin.jpg
+  info: Assistant Professor
+  email: ensnry.oenuz@hnv.py 
+  mailto: znvygb:nensnry.oenuz@hnv.py
+  number_educ: 1
+  education1: PhD in Physics, University of Cambridge
+  area1: Particle Physics Phenomenology
+
 - name: Jorge Cuadra
   department: FAL (Viña)
   webpage: https://artesliberales.uai.cl/profesor/jorge-cuadra/
