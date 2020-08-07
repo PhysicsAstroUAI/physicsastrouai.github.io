@@ -11,7 +11,7 @@ email: physics.astro.uai@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Physics ans Astronomy research group of the Universidad Adolfo Ibáñez, Chile
 baseurl: ""
-url: "https://physicsastrouai.github.io/"
+url: http://physicsastrouai.github.io/
 
 include:
   - .htaccess
