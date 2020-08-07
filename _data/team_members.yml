@@ -52,18 +52,7 @@
   number_educ: 1
   education1: PhD in Physics, Universidad de Chile
   area1: String theory, Theoretical Physics
-
-- name: Jorge Cuadra
-  department: FAL (Viña)
-  webpage: https://artesliberales.uai.cl/profesor/jorge-cuadra/
-  photo: jorge-cuadra-sq.jpg
-  info: Associate Professor
-  email: ensnry.oenuz@hnv.py 
-  mailto: znvygb:nensnry.oenuz@hnv.py
-  number_educ: 1
-  education1: PhD in Astronomy, Ludwig-Maximilians-Universität München
-  area1: Numerical Astrophysics
-   
+  
 - name: Giovanna Cottin
   department: FAL (Santiago)
   webpage: https://sites.google.com/view/giovannacottinburacchio/
@@ -86,6 +75,17 @@
   education1: PhD in Physics, Johns Hopkins University
   area1: Condensed matter physics
     
+- name: Jorge Cuadra
+  department: FAL (Viña)
+  webpage: https://artesliberales.uai.cl/profesor/jorge-cuadra/
+  photo: jorge-cuadra-sq.jpg
+  info: Associate Professor
+  email: ensnry.oenuz@hnv.py 
+  mailto: znvygb:nensnry.oenuz@hnv.py
+  number_educ: 1
+  education1: PhD in Astronomy, Ludwig-Maximilians-Universität München
+  area1: Numerical Astrophysics
+ 
 - name: Andrés Gomberoff
   department: FIC (Santiago)
   webpage: https://ingenieria.uai.cl/profesor/andres-gomberoff/
