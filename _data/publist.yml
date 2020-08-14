@@ -1,7 +1,7 @@
 - title: "Boosted W and Z tagging with jet charge and deep learning"
   image: cottin2020.png
   description: Demostration that the classification of boosted, hadronically decaying, weak gauge bosons can be significantly improved over traditional cut-based and boosted decision tree-based methods using deep learning and the jet charge variable.
-  authors: Y Chen, C Janice, G Cottin, D Shih
+  authors: Y.-C. J Chen, C.-W Chiang, G Cottin, D Shih
   link:
     url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.053001
     display: PhysRevD.101.053001
