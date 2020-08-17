@@ -22,6 +22,7 @@ Related URLs: [AAS Job Register Ad](https://jobregister.aas.org/ad/a30cb4a6)
 Application Deadline: Thursday, September 10, 2020<br>
 Selection Deadline: Wednesday, September 30, 2020<br>
 Current Status of Position: Accepting Applicants<br>
+
 <!--
 
 We are always looking for new group members with passion, talent, and grit!
