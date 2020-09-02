@@ -79,7 +79,7 @@ We are located at Universidad Adolfo Ibáñez,  both in the Peñalolén (Santiag
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-uai.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/physics-astro.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/physics-astro.jpg" style="width: 210px" style="float:right>
 <!--  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
