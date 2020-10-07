@@ -85,17 +85,6 @@
   number_educ: 1
   education1: PhD in Astronomy, Ludwig-Maximilians-Universität München
   area1: Numerical Astrophysics
- 
-- name: Andrés Gomberoff
-  department: FIC (Santiago)
-  webpage: https://ingenieria.uai.cl/profesor/andres-gomberoff/
-  photo: andres-gomberoff.jpg
-  info: Associate professor
-  email: naqerf.tbzorebss@hnv.py
-  mailto: znvygb:naqerf.tbzorebss@hnv.py
-  number_educ: 1
-  education1: PhD in Physics, Universidad de Chile
-  area1: Gravitation
   
 - name: Hernán González
   department: FAL (Santiago)
@@ -187,7 +176,16 @@
 
 
 
-
+#- name: Andrés Gomberoff
+#  department: FIC (Santiago)
+#  webpage: https://ingenieria.uai.cl/profesor/andres-gomberoff/
+#  photo: andres-gomberoff.jpg
+#  info: Associate professor
+#  email: naqerf.tbzorebss@hnv.py
+#  mailto: znvygb:naqerf.tbzorebss@hnv.py
+#  number_educ: 1
+#  education1: PhD in Physics, Universidad de Chile
+#  area1: Gravitation
 
 
 #- name: Hugo van Bohemen
