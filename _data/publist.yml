@@ -1,3 +1,13 @@
+- title: "Time scales in the thermal dynamics of magnetic dipolar clusters"
+  image: dummy.png
+  description: Solution of the Langevin equation for a set of interacting x-y dipoles allows the identification of the time scales and correlation length that reveal how interactions, temperature, damping and inertia may determine the frequency modes of edge and bulk magnetic mesospins in artificial dipolar systems.
+  authors: P Mellado
+  link:
+    url: https://arxiv.org/abs/2008.01891
+    display: Preprint:arXiv:2008.01891
+  highlight: 1
+  news2:
+
 - title: "Boosted W and Z tagging with jet charge and deep learning"
   image: cottin2020.png
   description: Demostration that the classification of boosted, hadronically decaying, weak gauge bosons can be significantly improved over traditional cut-based and boosted decision tree-based methods using deep learning and the jet charge variable.
