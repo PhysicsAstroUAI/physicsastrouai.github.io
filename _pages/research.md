@@ -9,7 +9,7 @@ permalink: /research/
 # Research
 
 ## Astrophysics
-Faculty: <a href="http://www.astro.puc.cl/~rbrahm/">Rafael Brahm</a>, <a href="https://artesliberales.uai.cl/profesor/jorge-cuadra/">Jorge Cuadra</a>, <a href="http://andres-jordan.io/">Andrés Jordán</a>, <a href="http://www.gijsmulders.com/">Gijs Mulders</a> (starting Oct 2020).
+Faculty: <a href="http://www.astro.puc.cl/~rbrahm/">Rafael Brahm</a>, <a href="https://artesliberales.uai.cl/profesor/jorge-cuadra/">Jorge Cuadra</a>, <a href="http://andres-jordan.io/">Andrés Jordán</a>, <a href="http://www.gijsmulders.com/">Gijs Mulders</a>.
 
 We have a strong focus on the discovery and atmospheric characterization of exoplanets, understanding populations of exoplanets and their birthplaces, protoplanetary disks. We work on various ground-based projects such as [HATSouth](https://hatsouth.org/), [HATPI](https://hatpi.org/) and follow-up of space-based missions, most notably [TESS](https://tess.mit.edu/). Regarding the latter, we are a leading group in the discovery of warm giants, loosely defined as giant planets with radii larger than 0.4 Jupiter raii and periods larget than 10 days. We carry out simulations of both planetary system populations to compare with observations and of individual protoplanetary didks to understand planetary formation and disk physics. Additional research topics are small telescope instrumentation and time domain astronomy. 
 
