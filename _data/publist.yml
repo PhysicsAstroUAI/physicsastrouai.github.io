@@ -1,10 +1,20 @@
+- title: "Stable and unstable trajectories in a dipolar chain"
+  image: mellado3.png
+  description: A small number of XY magnetic dipoles are subject to an external magnetic field for studying the origin of their collective magnetic response.
+  authors: J Cisternas, P Mellado, F Urbina, C Portilla, M Carrasco, A Concha
+  link:
+    url: https://arxiv.org/abs/2012.04173
+    display: Preprint: arXiv:2012.04173
+  highlight: 1
+  news2:
+
 - title: "Time scales in the thermal dynamics of magnetic dipolar clusters"
   image: mellado2.png
   description: Solution of the Langevin equation for a set of interacting x-y dipoles allows the identification of the time scales and correlation length that reveal how interactions, temperature, damping and inertia may determine the frequency modes of edge and bulk magnetic mesospins in artificial dipolar systems.
   authors: P Mellado
   link:
-    url: https://arxiv.org/abs/2008.01891
-    display: Preprint:arXiv:2008.01891
+    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.214442
+    display: PhysRevB.102.214442
   highlight: 1
   news2:
 
