@@ -7,7 +7,6 @@ permalink: /
 ---
 
 We are a research group at the [Faculty of Engineering and Sciences](https://ingenieria.uai.cl/) and the [Faculty of Liberal Arts](https://artesliberales.uai.cl/) of [Universidad Adolfo Ibáñez](https://www.uai.cl/). We  carry out fundamental research in various areas of Physics and Astrophysics, such as experimental and theoretical condensed matter, experimental and theoretical high energy physics, planetary sciences.
-{{ site.url }}{{ site.baseurl }}
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
