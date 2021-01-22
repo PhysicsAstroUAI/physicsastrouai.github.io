@@ -11,8 +11,6 @@ permalink: /publications/
 
 ## Recent highlights
 
-<!-- (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012)) -->
-
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
 
@@ -62,11 +60,4 @@ A list of Condensed Matter/Material Physics/Nonelinear Physics can be found in t
 
 Finally, all together in a single <a href="https://ui.adsabs.harvard.edu/public-libraries/YHeqTHpvSCWXNeVjtKNgmQ">ADS library!</a>
 
-<!--
-{% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
--->
