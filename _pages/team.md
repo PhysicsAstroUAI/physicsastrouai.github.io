@@ -43,7 +43,7 @@ permalink: /team/
 
 ## Postdoctoral Researchers
 {% assign number_printed = 0 %}
-{% for member in site.data.postdocs_members %}
+{% for member in site.data.postdocs %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
