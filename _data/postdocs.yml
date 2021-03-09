@@ -1,14 +1,3 @@
-- name: Marcelo Tala
-  department: FIC (Santiago)
-  webpage: https://nyriastronomy.github.io/members/pinto/
-  photo: pinto.jpg
-  info: Fondecyt Fellow
-  email: ensnry.oenuz@hnv.py 
-  mailto: znvygb:nensnry.oenuz@hnv.py
-  number_educ: 1
-  education1: PhD in Astrophysics, Universität Heidelberg
-  area1: Instrumentation, Exoplanets
-
 - name: Ivania Maturana
   department: FAL (Santiago)
   webpage: https://www.ivaniela.com
@@ -19,3 +8,14 @@
   number_educ: 1
   education1: PhD in Physics, Pontificia Universidad Católica de Chile
   area1:  Dark Matter Phenomenology
+  
+- name: Marcelo Tala
+  department: FIC (Santiago)
+  webpage: https://nyriastronomy.github.io/members/pinto/
+  photo: pinto.jpg
+  info: Fondecyt Fellow
+  email: ensnry.oenuz@hnv.py 
+  mailto: znvygb:nensnry.oenuz@hnv.py
+  number_educ: 1
+  education1: PhD in Astrophysics, Universität Heidelberg
+  area1: Instrumentation, Exoplanets
