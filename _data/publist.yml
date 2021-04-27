@@ -1,3 +1,13 @@
+- title: "A stellar mass dependence of structured disks: a possible link with exoplanet demographics"
+  image: MandM2021.png
+  description: A population study of protoplanetary disks imaged with ALMA reveals that transition and ring disks are more common around higher mass stars. A comparison with exoplanet demographics indicates that Neptune and Jupiter mass exoplanets could be responsible for creating the observed protoplanetary disk structures.
+  authors: N van der Marel, GD Mulders
+  link:
+    url: https://arxiv.org/abs/2104.06838
+    display: Preprint:arXiv:2104.06838
+  highlight: 1
+  news2:
+
 - title: "Stable and unstable trajectories in a dipolar chain"
   image: mellado3.png
   description: A small number of XY magnetic dipoles are subject to an external magnetic field for studying the origin of their collective magnetic response.
