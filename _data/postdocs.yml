@@ -20,6 +20,17 @@
   education1: PhD in Physics, Pontificia Universidad Católica de Chile
   area1:  Dark Matter Phenomenology
   
+- name: Carlos Rubio
+  department: FIC (Santiago)
+  webpage: 
+  photo: rubio.jpg
+  info: Postdoctoral Researcher
+  email:  
+  mailto: 
+  number_educ: 1
+  education1: PhD in Physics, Pontificia Universidad Católica de Chile
+  area1: Cosmology, Gravitation, High Energy Theory
+  
 - name: Marcelo Tala
   department: FIC (Santiago)
   webpage: https://nyriastronomy.github.io/members/pinto/
@@ -31,13 +42,4 @@
   education1: PhD in Astrophysics, Universität Heidelberg
   area1: Instrumentation, Exoplanets
   
-- name: Carlos Rubio
-  department: FIC (Santiago)
-  webpage: 
-  photo: rubio.jpg
-  info: Postdoctoral Researcher
-  email:  
-  mailto: 
-  number_educ: 1
-  education1: PhD in Physics, Pontificia Universidad Católica de Chile
-  area1: Cosmology, Gravitation, High Energy Theory
+
