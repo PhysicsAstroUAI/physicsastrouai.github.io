@@ -140,6 +140,17 @@
   number_educ: 1
   education1: PhD in Astronomy, University of Amsterdam
   area1: Exoplanet Statistics, Planet Formation
+  
+- name: Diego Muñoz
+  department: FIC (Santiago)
+  webpage: https://sites.northwestern.edu/diegomunoz/
+  photo: diego-munoz.jpg
+  info: Assistant professor
+  email: cnhyn.zryynqb@hnv.py 
+  mailto: znvygb:cnhyn.zryynqb@hnv.py
+  number_educ: 1
+  education1: PhD in Astronomy & Astrophysics, Harvard University
+  area1: Planet Formation, Dynamical simulations
  
 - name: Alejandro Pereira
   department: FAL (Santiago)
