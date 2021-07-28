@@ -11,7 +11,7 @@ permalink: /vacancies/
 
 ### Faculty positions
 
-We have several faculty positions available in Exoplanets and Planetary Sciences ([AAS job register ad](https://jobregister.aas.org/ad/948108dc)) and Astroinfromatics and Astrostatistics ([AAS job register ad](https://jobregister.aas.org/ad/7daf77b3)).
+We have several faculty positions available in all areas of science and engineering, including Physics, Astrophysics and Planetary Sciences. ([pdf file with call for faculty positions](https://ingenieria.uai.cl/assets/uploads/2021/07/womenengineering2021.pdf)).
 
-Application Deadline: November 1, 2020<br>
+Application Deadline: October 1, 2021<br>
 
