@@ -11,7 +11,7 @@ permalink: /vacancies/
 
 ### Faculty positions
 
-We have several faculty positions available in all areas of science and engineering, including Physics, Astrophysics and Planetary Sciences. ([pdf file with call for faculty positions](https://ingenieria.uai.cl/assets/uploads/2021/07/womenengineering2021.pdf)).
+We have several faculty positions available for women in all areas of science and engineering, including Physics and Astrophysics ([pdf file with call for faculty positions](https://ingenieria.uai.cl/assets/uploads/2021/07/womenengineering2021.pdf)).
 
 Application Deadline: October 1, 2021<br>
 
