@@ -19,7 +19,18 @@
   number_educ: 1
   education1: PhD in Physics, Universidad de Chile
   area1: Plasma Physics
-    
+
+- name: Pablo Benítez-Llambay
+  department: FIC (Santiago)
+  webpage: https://sites.google.com/view/pbllambay
+  photo: pablo-benitez.jpg
+  info: Assistant professor
+  email: naqerf.tbzorebss@hnv.py
+  mailto: znvygb:naqerf.tbzorebss@hnv.py
+  number_educ: 1
+  education1: PhD, University of Cordoba, Argentina
+  area1: Numerical Astrophysics 
+ 
 - name: Rafael Brahm
   department: FIC (Santiago)
   webpage: https://www.astro.puc.cl/~rbrahm/
@@ -196,16 +207,6 @@
   education1: PhD in Physics, Queen Mary University of London
   area1: String Theory, Soliton Physics, AdS/CFT 
 
-- name: Pablo Benítez-Llambay
-  department: FIC (Santiago)
-  webpage: https://sites.google.com/view/pbllambay
-  photo: pablo-benitez.jpg
-  info: Assistant professor
-  email: naqerf.tbzorebss@hnv.py
-  mailto: znvygb:naqerf.tbzorebss@hnv.py
-  number_educ: 1
-  education1: PhD, University of Cordoba, Argentina
-  area1: Numerical Astrophysics
 
 #- name: Andrés Gomberoff
 #  department: FIC (Santiago)
