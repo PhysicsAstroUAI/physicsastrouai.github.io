@@ -1,5 +1,5 @@
 - name: Andrés Anabalón
-  department: FAL (Viña)
+  department: FAL (Santiago)
   webpage: https://artesliberales.uai.cl/profesor/andres-fernando-anabalon/
   photo: andres-anabalon.jpg
   info: Associate Professor
@@ -95,7 +95,7 @@
   mailto: znvygb:naqerf.tbzorebss@hnv.py
   number_educ: 1
   education1: PhD in Physics, PUC
-  area1: High Energy Physics Theory, GR
+  area1: High Energy Physics Theory, General Relativity
   
 - name: Sergio Hojman
   department: FAL (Santiago)
@@ -130,7 +130,7 @@
   education1: PhD in Physics, Johns Hopkins University
   area1: Strongly Correlated Materials
   
-  - name: Alejandra Montecinos
+- name: Alejandra Montecinos
   department: FAL (Santiago)
   webpage: https://artesliberales.uai.cl/profesor/alejandra-montecinos/
   photo: alejandra_montecinos.jpg
