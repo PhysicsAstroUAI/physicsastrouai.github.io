@@ -1,3 +1,11 @@
+- name: David Aguayo
+  photo: david-aguayo.jpg
+  info: Lecturer, FIC (Santiago)
+  #duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
+  email: david.aguayo@uai.cl
+  number_educ: 1
+  education1: PhD in Engineering, Universidad Adolfo Ibañez
+
 - name: Andrés Anabalón
   department: FAL (Santiago)
   webpage: https://artesliberales.uai.cl/profesor/andres-fernando-anabalon/
