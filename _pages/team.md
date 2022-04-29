@@ -76,7 +76,7 @@ permalink: /team/
 </div>
 {% endif %}
  
-## Lecturers
+# Lecturers
 
 {% assign number_printed = 0 %}
 {% for member in site.data.lecturers_members %}
