@@ -1,10 +1,10 @@
-- name: David Aguayo
-  photo: david-aguayo.jpg
-  info: Lecturer, FIC (Santiago)
-  #duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
-  email: david.aguayo@uai.cl
-  number_educ: 1
-  education1: PhD in Engineering, Universidad Adolfo Ibañez
+#- name: David Aguayo
+#  photo: david-aguayo.jpg
+#  info: Lecturer, FIC (Santiago)
+#  duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
+#  email: david.aguayo@uai.cl
+#  number_educ: 1
+#  education1: PhD in Engineering, Universidad Adolfo Ibañez
   #education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
   #education3: PhD Leiden University!
 
