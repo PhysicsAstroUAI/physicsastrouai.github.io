@@ -20,6 +20,17 @@
   education1: PhD in Physics, Pontificia Universidad Católica de Chile
   area1:  Dark Matter Phenomenology
   
+- name: Ximena Soledad Ramos
+  department: FIC (Santiago)
+  webpage: https://xsramos.wordpress.com/about-me/
+  photo: xime-ramos.jpg
+  info: MAS Postdoctoral Researcher
+  email: ensnry.oenuz@hnv.py 
+  mailto: znvygb:nensnry.oenuz@hnv.py
+  number_educ: 1
+  education1: PhD in Astronomy, Universidad Nacional de Córdoba, Argentina
+  area1: Exoplanets, Orbital Dynamics
+  
 - name: Carlos Rubio
   department: FIC (Santiago)
   webpage: https://www.researchgate.net/profile/Carlos-Rubio-25
@@ -53,13 +64,4 @@
   education1: PhD in Astrophysics, Universität Heidelberg
   area1: Instrumentation, Exoplanets
   
-- name: Ximena Soledad Ramos
-  department: FIC (Santiago)
-  webpage: https://xsramos.wordpress.com/about-me/
-  photo: xime-ramos.jpg
-  info: MAS Postdoctoral Researcher
-  email: ensnry.oenuz@hnv.py 
-  mailto: znvygb:nensnry.oenuz@hnv.py
-  number_educ: 1
-  education1: PhD in Astronomy, Universidad Nacional de Córdoba, Argentina
-  area1: Exoplanets, Orbital Dynamics
+
