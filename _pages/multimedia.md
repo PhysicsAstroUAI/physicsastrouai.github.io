@@ -12,7 +12,7 @@ permalink: /multimedia/
 
 Giovanna Cottin, "The LHC is back in business ! Anomalies, the Standard Model, and novel opportunities for the discovery of new physics"
 
-You can [see the PDF slides]({{site.url}}/slides_seminars/UAIPhysics_Seminar_2022_GCottin.pdf) here.
+You can [see the PDF slides]({{site.url}}{{site.baseurl}}/slides_seminars/UAIPhysics_Seminar_2022_GCottin.pdf) directly.
 
 #### Physics and Astronomy Seminars (2020):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JuQSe2peAm8" frameborder="0" allowfullscreen></iframe>
