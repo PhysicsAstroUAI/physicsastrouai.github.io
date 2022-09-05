@@ -33,7 +33,7 @@
   
 - name: Ximena Soledad Ramos
   department: FIC (Santiago)
-  webpage: https://xsramos.wordpress.com/about-me/
+  webpage: https://sites.google.com/view/xramos
   photo: xime-ramos.jpg
   info: MAS Postdoctoral Researcher
   email: ensnry.oenuz@hnv.py 
@@ -52,17 +52,6 @@
   number_educ: 1
   education1: PhD in Physics, Pontificia Universidad Católica de Chile
   area1: Cosmology, Gravitation, High Energy Theory
-
-- name: Elyar Sedaghati
-  department: FIC (Santiago)
-  webpage: https://esedagha.github.io
-  photo: elyar2.jpg
-  info: MAS Postdoctoral Researcher
-  email: ensnry.oenuz@hnv.py 
-  mailto: znvygb:nensnry.oenuz@hnv.py
-  number_educ: 1
-  education1: PhD in Astronomy & Astrophysics, German Space Agency & European Southern Observatory
-  area1: Exoplanets
   
 - name: Marcelo Tala
   department: FIC (Santiago)
