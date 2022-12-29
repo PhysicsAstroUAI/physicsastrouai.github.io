@@ -21,9 +21,11 @@ The astronomy group at UAI focuses on extrasolar planets, planet formation and p
 
 Applicants should send a cover letter, a CV, a list of publications, a research statement (2 pages max), and contact information for 3 reference letters. Prospective candidates are encouraged to contact Prof. Rafael Brahm (rafael.brahm@uai.cl) for additional information. Applications received before Jan 23  will get full consideration; later applications may still be considered until the position is filled. Priority will be given to suitable candidates of Chilean nationality or whose current status does not require a visa request to start working in Chile. Starting date is no later than March 2023.
 
-%### Faculty positions
+/*
+### Faculty positions
 
-%We have several faculty positions available for women in all areas of science and engineering, including Physics and Astrophysics ([pdf file with call for %faculty positions](https://ingenieria.uai.cl/assets/uploads/2021/07/womenengineering2021.pdf)).
+We have several faculty positions available for women in all areas of science and engineering, including Physics and Astrophysics ([pdf file with call for faculty positions](https://ingenieria.uai.cl/assets/uploads/2021/07/womenengineering2021.pdf)).
 
-%Application Deadline: October 1, 2021<br>
+Application Deadline: October 1, 2021<br>
+*/
 
