@@ -9,9 +9,9 @@ permalink: /vacancies/
 # Current open positions
 <br>
 
-### Postodctoral Positions:
+## Postodctoral Positions:
 
-## Postodctoral position in exoplanets
+### Postodctoral position in exoplanets
 
 The [Faculty of Engineering and Sciences at Universidad Adolfo Ibáñez](https://ingenieria.uai.cl), Chile, invites applications for a postdoctoral position in astronomy, focused on the characterization of extrasolar planets. The successful applicant will work with Prof. Rafael Brahm at the Peñalolén campus and will join the [Physics and Astronomy group at UAI](https://physics-astro.uai.cl).
 
