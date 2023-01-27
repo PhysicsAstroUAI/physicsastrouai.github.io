@@ -18,7 +18,7 @@
   area1: Gravitation, High Energy Physics Theory
 
 - name: Felipe A. Asenjo
-  department: FIC (Santiago)
+  #department: FIC (Santiago)
   webpage: https://ingenieria.uai.cl/profesor/felipe-asenjo/
   photo: felipe-asenjo.jpg
   info: Associate professor
@@ -29,7 +29,7 @@
   area1: Plasma Physics
 
 - name: Pablo Benítez-Llambay
-  department: FIC (Santiago)
+  #department: FIC (Santiago)
   webpage: https://sites.google.com/view/pbllambay
   photo: pablo-benitez.jpg
   info: Assistant professor
@@ -40,7 +40,7 @@
   area1: Numerical Astrophysics 
  
 - name: Rafael Brahm
-  department: FIC (Santiago)
+  #department: FIC (Santiago)
   webpage: https://www.astro.puc.cl/~rbrahm/
   photo: rafael-brahm.jpg
   info: Assistant Professor
@@ -51,7 +51,7 @@
   area1: Exoplanets
 
 - name: Nathalie Casanova
-  department: FAL (Santiago)
+  #department: FAL (Santiago)
   webpage: https://www.ncasanova.cl/
   photo: nathalie-casanova.jpg
   info: Assistant Professor
@@ -62,7 +62,7 @@
   area1: Biophysics
 
 - name: Osvaldo Chandía
-  department: FAL (Santiago)
+  #department: FAL (Santiago)
   webpage: https://artesliberales.uai.cl/profesor/osvaldo-chandia/
   photo: osvaldo-chandia.jpg
   info: Associate Professor
@@ -73,7 +73,7 @@
   area1: String Theory, Theoretical Physics
     
 - name: Andrés Concha
-  department: FIC (Santiago)
+  #department: FIC (Santiago)
   webpage: https://sites.google.com/site/andresconchaphysicsresearch/
   photo: andres-concha.jpg
   info: Associate professor
@@ -84,7 +84,7 @@
   area1: Condensed Matter Physics
 
 - name: Giovanna Cottin
-  department: FAL (Santiago)
+  #department: FAL (Santiago)
   webpage: https://sites.google.com/view/giovannacottinburacchio/
   photo: giovanna-cottin.jpg
   info: Associate Professor
@@ -95,7 +95,7 @@
   area1: Particle Physics Phenomenology
 
 - name: Jorge Cuadra
-  department: FAL (Viña)
+  #department: FAL (Viña)
   webpage: https://artesliberales.uai.cl/profesor/jorge-cuadra/
   photo: jorge-cuadra-sq.jpg
   info: Associate Professor
@@ -106,7 +106,7 @@
   area1: Numerical Astrophysics
   
 - name: Hernán González
-  department: FAL (Santiago)
+  #department: FAL (Santiago)
   webpage: https://artesliberales.uai.cl/profesor/hernan-gonzalez/
   photo: hernan-gonzalez.jpg
   info: Associate professor
@@ -117,7 +117,7 @@
   area1: High Energy Physics Theory, General Relativity
   
 - name: Sergio Hojman
-  department: FAL (Santiago)
+  #department: FAL (Santiago)
   webpage: https://artesliberales.uai.cl/profesor/sergio-hojman/
   photo: sergio-hojman.jpg
   info: Full professor
@@ -128,7 +128,7 @@
   area1: General Relativity, Quantum Mechanics
   
 - name: Andrés Jordán
-  department: FIC (Santiago)
+  #department: FIC (Santiago)
   webpage: https://andres-jordan.io/
   photo: andres-jordan.jpg
   info: Full professor
@@ -139,7 +139,7 @@
   area1: Exoplanets, Atmospheres
   
 - name: Paula Mellado
-  department: FIC (Santiago)
+  #department: FIC (Santiago)
   webpage: https://www.paulamellado.com/
   photo: paula-mellado.jpg
   info: Full professor
@@ -150,7 +150,7 @@
   area1: Strongly Correlated Materials
   
 - name: Alejandra Montecinos
-  department: FAL (Santiago)
+  #department: FAL (Santiago)
   webpage: https://artesliberales.uai.cl/profesor/alejandra-montecinos/
   photo: alejandra-montecinos.jpg
   info: Assistant professor
@@ -161,7 +161,7 @@
   area1: General Relativity, Cosmology
   
 - name: Gijs Mulders
-  department: FIC (Santiago)
+  #department: FIC (Santiago)
   webpage: https://www.gijsmulders.com/
   photo: gijs-mulders.jpg
   info: Assistant professor
@@ -172,7 +172,7 @@
   area1: Exoplanet Statistics, Planet Formation
   
 - name: Diego Muñoz
-  department: FIC (Santiago)
+  #department: FIC (Santiago)
   webpage: https://sites.northwestern.edu/diegomunoz/
   photo: diego-munoz.jpg
   info: Assistant professor
@@ -183,7 +183,7 @@
   area1: Planet Formation, Dynamical simulations
  
 - name: Alejandro Pereira
-  department: FAL (Santiago)
+  #department: FAL (Santiago)
   webpage: https://artesliberales.uai.cl/profesor/alejandro-pereira/
   photo: alejandro-pereira.jpg
   info: Assistant professor
@@ -194,7 +194,7 @@
   area1: Condensed Matter Physics, Material Science
  
 - name: Francisco Rojas
-  department: FIC (Santiago)
+  #department: FIC (Santiago)
   webpage: https://ingenieria.uai.cl/profesor/francisco-rojas/
   photo: francisco-rojas.jpg
   info: Associate professor
@@ -205,7 +205,7 @@
   area1: String Theory, High Energy Physics, Quantum Gravity.
   
 - name: Néstor Sepúlveda
-  department: FIC 
+  #department: FIC 
   webpage: https://pure.uai.cl/en/persons/n%C3%A9stor-sep%C3%BAlveda
   photo: nestor_sepulveda.jpg
   info: Assistant professor
@@ -216,7 +216,7 @@
   area1: Biophysics, Statistical Mechanics, Collective Motion, Fluid Mechanics.
 
 - name: Gianni Tallarita
-  department: FAL (Santiago)
+  #department: FAL (Santiago)
   webpage: https://artesliberales.uai.cl/profesor/gianni-tallarita/ 
   photo: gianni-tallarita.jpg
   info: Associate professor
@@ -227,7 +227,7 @@
   area1: String Theory, Soliton Physics, AdS/CFT 
 
 - name: Roberto Troncoso
-  department: FIC
+  #department: FIC
   webpage: 
   photo: roberto-troncoso_v2.jpeg
   info: Assistant professor
