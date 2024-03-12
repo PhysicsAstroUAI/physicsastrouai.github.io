@@ -215,16 +215,16 @@
   education1: Doctor in Physics, Universite Paris VII 
   area1: Biophysics, Statistical Mechanics, Collective Motion, Fluid Mechanics.
 
-#- name: Gianni Tallarita
-#  #department: FAL (Santiago)
-#  webpage: https://artesliberales.uai.cl/profesor/gianni-tallarita/ 
-#  photo: gianni-tallarita.jpg
-#  info: Associate professor
-#  email: senapvfpb.ebwnfs@hnv.py 
-#  mailto: znvygb:senapvfpb.ebwnfs@hnv.py
-#  number_educ: 1
-#  education1: PhD in Physics, Queen Mary University of London
-#  area1: String Theory, Soliton Physics, AdS/CFT 
+- name: Gianni Tallarita
+  #department: FAL (Santiago)
+  webpage: https://artesliberales.uai.cl/profesor/gianni-tallarita/ 
+  photo: gianni-tallarita.jpg
+  info: Associate professor
+  email: senapvfpb.ebwnfs@hnv.py 
+  mailto: znvygb:senapvfpb.ebwnfs@hnv.py
+  number_educ: 1
+  education1: PhD in Physics, Queen Mary University of London
+  area1: String Theory, Soliton Physics, AdS/CFT 
 
 - name: Roberto Troncoso
   #department: FIC
