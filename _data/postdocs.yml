@@ -20,38 +20,38 @@
   education1: PhD in Astrophysics, Universidad de Valparaíso
   area1: Massive Stars, Stellar Winds
   
-- name: Ivania Maturana
-  department: FAL (Santiago)
-  webpage: https://www.ivaniela.com
-  photo: ivania.png
-  info: Fondecyt Fellow
-  email: ensnry.oenuz@hnv.py 
-  mailto: znvygb:nensnry.oenuz@hnv.py
-  number_educ: 1
-  education1: PhD in Physics, Pontificia Universidad Católica de Chile
-  area1:  Dark Matter Phenomenology
+#- name: Ivania Maturana
+#  department: FAL (Santiago)
+#  webpage: https://www.ivaniela.com
+#  info: Fondecyt Fellow
+#  photo: ivania.png
+#  email: ensnry.oenuz@hnv.py 
+#  mailto: znvygb:nensnry.oenuz@hnv.py
+#  number_educ: 1
+#  education1: PhD in Physics, Pontificia Universidad Católica de Chile
+#  area1:  Dark Matter Phenomenology
   
-- name: Ximena Soledad Ramos
-  department: FIC (Santiago)
-  webpage: https://sites.google.com/view/xramos
-  photo: xime-ramos.jpg
-  info: MAS Postdoctoral Researcher
-  email: ensnry.oenuz@hnv.py 
-  mailto: znvygb:nensnry.oenuz@hnv.py
-  number_educ: 1
-  education1: PhD in Astronomy, Universidad Nacional de Córdoba, Argentina
-  area1: Exoplanets, Orbital Dynamics
+#- name: Ximena Soledad Ramos
+#  department: FIC (Santiago)
+#  webpage: https://sites.google.com/view/xramos
+#  photo: xime-ramos.jpg
+#  info: MAS Postdoctoral Researcher
+#  email: ensnry.oenuz@hnv.py 
+#  mailto: znvygb:nensnry.oenuz@hnv.py
+#  number_educ: 1
+#  education1: PhD in Astronomy, Universidad Nacional de Córdoba, Argentina
+#  area1: Exoplanets, Orbital Dynamics
   
-- name: Carlos Rubio
-  department: FIC (Santiago)
-  webpage: https://www.researchgate.net/profile/Carlos-Rubio-25
-  photo: rubio.jpg
-  info: Fondecyt Fellow
-  email:  
-  mailto: 
-  number_educ: 1
-  education1: PhD in Physics, Pontificia Universidad Católica de Chile
-  area1: Cosmology, Gravitation, High Energy Theory
+#- name: Carlos Rubio
+#  department: FIC (Santiago)
+#  webpage: https://www.researchgate.net/profile/Carlos-Rubio-25
+#  photo: rubio.jpg
+#  info: Fondecyt Fellow
+#  email:  
+#  mailto: 
+#  number_educ: 1
+#  education1: PhD in Physics, Pontificia Universidad Católica de Chile
+#  area1: Cosmology, Gravitation, High Energy Theory
   
 - name: Marcelo Tala
   department: FIC (Santiago)
