@@ -160,16 +160,16 @@
   education1: PhD in Physics, Universidad de Chile
   area1: General Relativity, Cosmology
   
-- name: Gijs Mulders
-  #department: FIC (Santiago)
-  webpage: https://www.gijsmulders.com/
-  photo: gijs-mulders.jpg
-  info: Assistant professor
-  email: cnhyn.zryynqb@hnv.py 
-  mailto: znvygb:cnhyn.zryynqb@hnv.py
-  number_educ: 1
-  education1: PhD in Astronomy, University of Amsterdam
-  area1: Exoplanet Statistics, Planet Formation
+#- name: Gijs Mulders
+#  #department: FIC (Santiago)
+#  webpage: https://www.gijsmulders.com/
+#  photo: gijs-mulders.jpg
+#  info: Assistant professor
+#  email: cnhyn.zryynqb@hnv.py 
+#  mailto: znvygb:cnhyn.zryynqb@hnv.py
+#  number_educ: 1
+#  education1: PhD in Astronomy, University of Amsterdam
+#  area1: Exoplanet Statistics, Planet Formation
   
 #- name: Diego Muñoz
 #  #department: FIC (Santiago)
@@ -203,6 +203,17 @@
   number_educ: 1
   education1: PhD in Physics, University of Florida
   area1: String Theory, High Energy Physics, Quantum Gravity.
+
+- name: Michael Roman
+  #department: FIC (Santiago)
+  webpage: 
+  photo: michael-roman.jpg
+  info: Assistant professor
+  email: senapvfpb.ebwnfs@hnv.py 
+  mailto: znvygb:senapvfpb.ebwnfs@hnv.py
+  number_educ: 1
+  education1: PhD in Atmospheric Sciences, Cornell University
+  area1: Planetary Atmospheres.
   
 - name: Néstor Sepúlveda
   #department: FIC 
@@ -215,27 +226,27 @@
   education1: Doctor in Physics, Universite Paris VII 
   area1: Biophysics, Statistical Mechanics, Collective Motion, Fluid Mechanics.
 
-- name: Gianni Tallarita
-  #department: FAL (Santiago)
-  webpage: https://artesliberales.uai.cl/profesor/gianni-tallarita/ 
-  photo: gianni-tallarita.jpg
-  info: Associate professor
-  email: senapvfpb.ebwnfs@hnv.py 
-  mailto: znvygb:senapvfpb.ebwnfs@hnv.py
-  number_educ: 1
-  education1: PhD in Physics, Queen Mary University of London
-  area1: String Theory, Soliton Physics, AdS/CFT 
+#- name: Gianni Tallarita
+#  #department: FAL (Santiago)
+#  webpage: https://artesliberales.uai.cl/profesor/gianni-tallarita/ 
+#  photo: gianni-tallarita.jpg
+#  info: Associate professor
+#  email: senapvfpb.ebwnfs@hnv.py 
+#  mailto: znvygb:senapvfpb.ebwnfs@hnv.py
+#  number_educ: 1
+#  education1: PhD in Physics, Queen Mary University of London
+#  area1: String Theory, Soliton Physics, AdS/CFT 
 
-- name: Roberto Troncoso
-  #department: FIC
-  webpage: 
-  photo: roberto-troncoso_v2.jpeg
-  info: Assistant professor
-  email: senapvfpb.ebwnfs@hnv.py 
-  mailto: znvygb:senapvfpb.ebwnfs@hnv.py
-  number_educ: 1
-  education1: PhD in Physics
-  area1: Condensed Matter Physics
+#- name: Roberto Troncoso
+#  #department: FIC
+#  webpage: 
+#  photo: roberto-troncoso_v2.jpeg
+#  info: Assistant professor
+#  email: senapvfpb.ebwnfs@hnv.py 
+#  mailto: znvygb:senapvfpb.ebwnfs@hnv.py
+#  number_educ: 1
+#  education1: PhD in Physics
+#  area1: Condensed Matter Physics
 
 #- name: Andrés Gomberoff
 #  department: FIC (Santiago)
