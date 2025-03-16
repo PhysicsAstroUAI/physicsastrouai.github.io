@@ -75,16 +75,16 @@
   education1: PhD in Astrophysics, Univ de Antioquia
   area1: exo-moons
   
-- name: Aritra Chakrabarty
-  department: FIC (Santiago)
-  webpage: https://scholar.google.com/citations?user=tSeRK7oAAAAJ&hl=en
-  photo: aritra-photo-cut.png
-  info: Data Observatory Postdoctoral Researcher
-  email: aritra.chakrabarty@dataobservatory.net
-  mailto: znvygb:aritra.chakrabarty@dataobservatory.net
-  number_educ: 1
-  education1: PhD in Astrophysics, Indian Institute of Astrophysics
-  area1: Exoplanets, Planet Formation
+#- name: Aritra Chakrabarty
+#  department: FIC (Santiago)
+#  webpage: https://scholar.google.com/citations?user=tSeRK7oAAAAJ&hl=en
+#  photo: aritra-photo-cut.png
+#  info: Data Observatory Postdoctoral Researcher
+#  email: aritra.chakrabarty@dataobservatory.net
+#  mailto: znvygb:aritra.chakrabarty@dataobservatory.net
+#  number_educ: 1
+#  education1: PhD in Astrophysics, Indian Institute of Astrophysics
+#  area1: Exoplanets, Planet Formation
 
 - name: Guido Granda-Muñoz
   department: FAL (Viña)
