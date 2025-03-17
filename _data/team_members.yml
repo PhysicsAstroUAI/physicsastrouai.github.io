@@ -116,16 +116,16 @@
 #  education1: PhD in Physics, PUC
 #  area1: High Energy Physics Theory, General Relativity
   
-- name: Sergio Hojman
-  #department: FAL (Santiago)
-  webpage: https://artesliberales.uai.cl/profesor/sergio-hojman/
-  photo: sergio-hojman.jpg
-  info: Emeritus professor
-  email: naqerf.tbzorebss@hnv.py
-  mailto: znvygb:naqerf.tbzorebss@hnv.py
-  number_educ: 1
-  education1: PhD in Physics, Princeton University
-  area1: General Relativity, Quantum Mechanics
+#- name: Sergio Hojman
+#  #department: FAL (Santiago)
+#  webpage: https://artesliberales.uai.cl/profesor/sergio-hojman/
+#  photo: sergio-hojman.jpg
+#  info: Emeritus professor
+#  email: naqerf.tbzorebss@hnv.py
+#  mailto: znvygb:naqerf.tbzorebss@hnv.py
+#  number_educ: 1
+#  education1: PhD in Physics, Princeton University
+#  area1: General Relativity, Quantum Mechanics
   
 - name: Andrés Jordán
   #department: FIC (Santiago)
