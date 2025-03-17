@@ -9,9 +9,9 @@ permalink: /research/
 # Research
 
 ## Astrophysics
-Faculty: <a href="http://www.astro.puc.cl/~rbrahm/">Rafael Brahm</a>, <a href="https://artesliberales.uai.cl/profesor/jorge-cuadra/">Jorge Cuadra</a>, <a href="http://andres-jordan.io/">Andrés Jordán</a>, <a href="http://www.gijsmulders.com/">Gijs Mulders</a>, <a href="https://sites.northwestern.edu/diegomunoz/">Diego Munoz</a>, <a href="https://sites.google.com/view/pbllambay">Pablo Benitez-LLambay</a>.
+Faculty: <a href="http://www.astro.puc.cl/~rbrahm/">Rafael Brahm</a>, <a href="https://artesliberales.uai.cl/profesor/jorge-cuadra/">Jorge Cuadra</a>, <a href="http://andres-jordan.io/">Andrés Jordán</a>, <a href="">Michael Roman</a>, <a href="https://sites.google.com/view/pbllambay">Pablo Benitez-LLambay</a>.
 Staff: Vincent Suc.
-Postdoctoral researchers: Alex Gormaz-Matamala, Marcelo Tala, Ximena Soledad Ramos, and Aritra Chakrabarty.
+Postdoctoral researchers: Alex Gormaz-Matamala, Marcelo Tala
 
 We have a strong focus on the discovery and atmospheric characterization of exoplanets, and understanding the formation of planets and planetary systems in protoplanetary disks. We work on various ground-based projects such as [HATSouth](https://hatsouth.org/), [HATPI](https://hatpi.org/) and follow-up of space-based missions, most notably [TESS](https://tess.mit.edu/). Regarding the latter, we are a leading group in the discovery of warm giants, loosely defined as giant planets with radii larger than 0.4 Jupiter raii and periods larget than 10 days. We carry out simulations of both planetary system populations to compare with observations and of individual protoplanetary disks to understand planetary formation and disk physics. Additional research topics are small telescope instrumentation and time domain astronomy. 
 
@@ -26,8 +26,8 @@ We work in quantum and classical field theories and for that effect it uses theo
 
 
 ## High Energy Physics, Mathematical Physics, Plasma Physics
-Faculty: <a href="https://artesliberales.uai.cl/profesor/andres-fernando-anabalon/">Andrés Anabalón</a>, <a href="https://ingenieria.uai.cl/profesor/felipe-asenjo/">Felipe Asenjo</a>, <a href="">Osvaldo Chandía</a>, <a href="https://sites.google.com/view/giovannacottinburacchio/">Giovanna Cottin</a>, <a href="https://artesliberales.uai.cl/profesor/hernan-gonzalez/">Hernán González</a>, <a href="https://artesliberales.uai.cl/profesor/sergio-hojman/">Sergio Hojman</a>, <a href="https://ingenieria.uai.cl/profesor/francisco-rojas/">Francisco Rojas</a>, <a href="https://artesliberales.uai.cl/profesor/gianni-tallarita/">Gianni Tallarita</a>.
-Postdoctoral researchers: Ivania Maturana, Carlos Rubio
+Faculty: <a href="https://ingenieria.uai.cl/profesor/felipe-asenjo/">Felipe Asenjo</a>, <a href="">Osvaldo Chandía</a>, <a href="https://artesliberales.uai.cl/profesor/sergio-hojman/">Sergio Hojman</a>, <a href="https://ingenieria.uai.cl/profesor/francisco-rojas/">Francisco Rojas</a>.
+Postdoctoral researchers: Carlos Rubio
 
 We carry out research in string theory, strong coupling models in holographic superconductivity, particle physics phenomenology (including <a href="https://home.cern/science/accelerators/large-hadron-collider">LHC@CERN</a>), black hole physics, gravitation, plasma physics in astrophysical environments, foundations of quantum mechanics, AdS/CFT, conservation laws in gauge theories, symmetries and conservation laws, inverse problem in variational calculus and propagation of spin particles and waves in gravitational fields.
 
