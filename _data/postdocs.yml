@@ -64,16 +64,16 @@
   education1: PhD in Astrophysics, Universität Heidelberg
   area1: Instrumentation, Exoplanets
 
-- name: Mario Sucerquia
-  department: FAL (Vila)
-  webpage: https://malsuar.wixsite.com/mario-sucerquia
-  photo: sucerquia.jpg
-  info: Fondecyt Fellow
-  email: ensnry.oenuz@hnv.py 
-  mailto: znvygb:nensnry.oenuz@hnv.py
-  number_educ: 1
-  education1: PhD in Astrophysics, Univ de Antioquia
-  area1: exo-moons
+#- name: Mario Sucerquia
+#  department: FAL (Vila)
+#  webpage: https://malsuar.wixsite.com/mario-sucerquia
+#  photo: sucerquia.jpg
+#  info: Fondecyt Fellow
+#  email: ensnry.oenuz@hnv.py 
+#  mailto: znvygb:nensnry.oenuz@hnv.py
+#  number_educ: 1
+#  education1: PhD in Astrophysics, Univ de Antioquia
+#  area1: exo-moons
   
 #- name: Aritra Chakrabarty
 #  department: FIC (Santiago)
